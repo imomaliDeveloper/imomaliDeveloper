@@ -9,14 +9,14 @@ I am a Backend Developer from Uzbekistan 🇺🇿
 - 🚀 I enjoy building REST APIs, GraphQL APIs and scalable backend applications
 - 🧠 I'm interested in Backend Architecture, Databases, Authentication and Performance
 - 💬 Ask me about JavaScript, TypeScript, Node.js, Express.js, REST API, GraphQL, PostgreSQL, MongoDB, Redis, Sequelize, Mongoose and JWT
-- 📫 How to reach me: [GitHub](https://github.com/imomalimamatqulov31-rgb)
+- 📫 How to reach me: [GitHub](https://github.com/imomaliDeveloper)
 
 ---
 
 ## 🤝 Connect with me
 
 <p align="left">
-<a href="https://github.com/imomalimamatqulov31-rgb">
+<a href="https://github.com/imomaliDeveloper">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -77,15 +77,19 @@ I am a Backend Developer from Uzbekistan 🇺🇿
 ## 🚀 Featured Projects
 
 ### 📱 PostHub
+
 Social media backend with authentication, posts, comments, profiles and image uploads.
 
 ### 📚 Library Management System
+
 Backend system for managing books, users, categories and library operations.
 
 ### ⚖️ Huquqiy Abituriyent
+
 Backend platform for law university applicants.
 
 ### 🍔 Online Food Ordering
+
 Backend system for online food ordering and restaurant management.
 
 ---
@@ -93,7 +97,7 @@ Backend system for online food ordering and restaurant management.
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=imomalimamatqulov31-rgb&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imomaliDeveloper&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -101,24 +105,9 @@ Backend system for online food ordering and restaurant management.
 ## 🔥 Most Used Languages
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imomalimamatqulov31-rgb&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imomaliDeveloper&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### ⚡ Backend is not just code — it's the engine behind every application.
-
-<!--
-**imomaliDeveloper/imomaliDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
