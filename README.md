@@ -16,9 +16,19 @@ I am a Backend Developer from Uzbekistan 🇺🇿
 ## 🤝 Connect with me
 
 <p align="left">
+
 <a href="https://github.com/imomaliDeveloper">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://t.me/Imomali_Mamatkulov">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/imomali_mamatkqulov">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -71,26 +81,6 @@ I am a Backend Developer from Uzbekistan 🇺🇿
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📱 PostHub
-
-Social media backend with authentication, posts, comments, profiles and image uploads.
-
-### 📚 Library Management System
-
-Backend system for managing books, users, categories and library operations.
-
-### ⚖️ Huquqiy Abituriyent
-
-Backend platform for law university applicants.
-
-### 🍔 Online Food Ordering
-
-Backend system for online food ordering and restaurant management.
 
 ---
 
