@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on backend projects
 - 🌱 I'm continuously improving my Backend Development skills
 - 💬 Ask me about JavaScript, TypeScript, Node.js, Express.js, REST API, GraphQL, PostgreSQL, MongoDB and Redis
-- 📫 GitHub: [@imomaliDeveloper](imomalimamatkqulov@gmail.com)
+- 📫 GitHub: (imomalimamatkqulov@gmail.com)
 
 ### 🛠️ Languages & Tools
 
